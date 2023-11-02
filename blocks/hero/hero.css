@@ -18,7 +18,9 @@ main .hero h1 {
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
-  color: white;
+  /*color: white;
+  color:#e60351*/
+  color:#035fe6
 }
 
 main .hero picture {
